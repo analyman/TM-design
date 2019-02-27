@@ -1,0 +1,9 @@
+# backup file
+*.bak
+
+# acad misc
+*.dwl
+*.dwl2
+
+# acad recovery files
+*_recover.dwg
