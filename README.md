@@ -17,4 +17,4 @@
 + 绿地率 &gt; 30%
 + 停车位: 建筑面积的 0.8个/100m<sup>2</sup>配置, 室内车位数量不少于总机动车位的60%; 非机动车车位按建筑面积的4个/100m<sup>2</sup>配置
 
-[yongdihongxian]:./imgs/land-read-line.png "用地红线"
+[yongdihongxian]:https://github.com/analyman/TM-design/raw/master/imgs/land-read-line.png "用地红线"
