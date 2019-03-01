@@ -1,9 +1,15 @@
 # backup file
-*.bak
+**.bak
+
+# print log files
+**.log
 
 # acad misc
-*.dwl
-*.dwl2
+**.dwl
+**.dwl2
 
 # acad recovery files
-*_recover.dwg
+**_recover.dwg
+
+# acad files outputed for merge(bind) externalReference
+print-settings/outputs
