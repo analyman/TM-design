@@ -7,7 +7,7 @@
 + 垂直交通: 设置至少4部电梯和一部消防电梯, 疏散楼梯主楼和裙房分开设置, 应满足防火要求.
 + 沿街裙房可设置 1~3 层营业商店, 内设营业厅、办公室、仓库、卫生间等, 在满足密度、绿化等要求下, 裙房各层面积宜大于标准层面积.
 
-![land-red-line](yongdihongxian)
+<img src="https://github.com/analyman/TM-design/raw/master/imgs/land-read-line.png"/>
 
 ### 主要经济指标
 + 用地面积: 9914m<sup>2</sup>
@@ -16,5 +16,3 @@
 + 建筑密度 &lt; 35%
 + 绿地率 &gt; 30%
 + 停车位: 建筑面积的 0.8个/100m<sup>2</sup>配置, 室内车位数量不少于总机动车位的60%; 非机动车车位按建筑面积的4个/100m<sup>2</sup>配置
-
-[yongdihongxian]:https://github.com/analyman/TM-design/raw/master/imgs/land-read-line.png "用地红线"
