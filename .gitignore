@@ -11,8 +11,15 @@
 # acad recovery files
 **_recover.dwg
 
+# word temp
+**.tmp
+**~$*
+
 # acad files outputed for merge(bind) externalReference
 建筑设计/print-settings/outputs
 
 # 论文翻译的PDF版本
 论文翻译/毕业设计论文翻译.pdf
+
+# 往届资料
+往届资料
