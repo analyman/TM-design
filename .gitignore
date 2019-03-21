@@ -9,11 +9,35 @@
 **.dwl2
 
 # acad recovery files
-**_recover.dwg
+**_recover**.dwg
 
 # word temp
 **.tmp
 **~$*
+
+# tianzheng
+**.T
+
+# PKPM output files
+**.tmp
+**.TMP
+**.log
+**.SAT
+**.OUT
+**.out
+**.txt
+**.SPS
+**.bak1
+**.dat
+**.SATF
+**/CalcTemp
+**/动画目录
+**/施工图
+**/计算书资料
+**/模型额外备份
+**/PLT图文件
+## IGNORE ALL PKPM
+**/PROJECT/
 
 # acad files outputed for merge(bind) externalReference
 建筑设计/print-settings/outputs
@@ -23,3 +47,6 @@
 
 # 往届资料
 往届资料
+
+# 提交
+提交
