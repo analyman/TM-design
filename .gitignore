@@ -37,7 +37,7 @@
 **/模型额外备份
 **/PLT图文件
 ## IGNORE ALL PKPM
-**/PROJECT/
+**/PROJECT*/
 
 # acad files outputed for merge(bind) externalReference
 建筑设计/print-settings/outputs
