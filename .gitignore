@@ -19,25 +19,49 @@
 **.T
 
 # PKPM output files
-**.tmp
-**.TMP
-**.log
-**.SAT
-**.OUT
-**.out
-**.txt
-**.SPS
-**.bak1
-**.dat
-**.SATF
-**/CalcTemp
-**/动画目录
-**/施工图
-**/计算书资料
-**/模型额外备份
-**/PLT图文件
+**/PROJECT*/*.tmp
+**/PROJECT*/*.TMP
+**/PROJECT*/*.log
+**/PROJECT*/*.OUT
+**/PROJECT*/*.out
+**/PROJECT*/*.txt
+**/PROJECT*/*.SPS
+**/PROJECT*/*.bak1
+**/PROJECT*/*.dat
+**/PROJECT*/*.SATF
+**/PROJECT*/CalcTemp
+**/PROJECT*/动画目录
+**/PROJECT*/施工图
+**/PROJECT*/计算书资料
+**/PROJECT*/模型额外备份
+**/PROJECT*/PLT图文件
+**/PROJECT*/LOADTEST
+**/PROJECT*/*.ini
+**/PROJECT*/*.pdf
+**/PROJECT*/*.MID
+**/PROJECT*/*.PRE
+**/PROJECT*/*.JCV
+**/PROJECT*/*.STS
+**/PROJECT*/*.xml
+**/PROJECT*/*.doc
+**/PROJECT*/*.docx
+**/PROJECT*/*.BMP
+**/PROJECT*/*.RFH
+**/PROJECT*/*.SAT
+!**/PROJECT*/bgl-bysj.SAT
+**/PROJECT*/*.PDB
+**/PROJECT*/*.MAP
+**/PROJECT*/*.zip
+**/PROJECT*/*.json
+**/PROJECT*/*.FNM
+**/PROJECT*/*.CFG
+**/PROJECT*/*.STA
+**/PROJECT*/APSRM.BWS
+**/PROJECT*/.B
+**/PROJECT*/$$$BASE$$$
+**/PROJECT*/*.[0123456789]*
 ## IGNORE ALL PKPM
-**/PROJECT*/
+#**/PROJECT*/
 
 # acad files outputed for merge(bind) externalReference
 建筑设计/print-settings/outputs
