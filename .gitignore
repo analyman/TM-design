@@ -35,6 +35,8 @@
 **/PROJECT*/计算书资料
 **/PROJECT*/模型额外备份
 **/PROJECT*/PLT图文件
+**/PROJECT*/舒适度结果
+**/PROJECT*/Slab*/
 **/PROJECT*/LOADTEST
 **/PROJECT*/*.ini
 **/PROJECT*/*.pdf
@@ -69,6 +71,9 @@
 **/PROJECT*/*地下室*/
 ## IGNORE ALL PKPM
 #**/PROJECT*/
+**/结构设计/PKPM电算/b-*/
+!**/结构设计/PKPM电算/b-*/*.JH
+!**/结构设计/PKPM电算/b-*/*.jh
 
 # acad files outputed for merge(bind) externalReference
 建筑设计/print-settings/outputs
