@@ -18,6 +18,9 @@
 # tianzheng
 **.T
 
+# pdf output
+**/output-pdf/
+
 # PKPM output files
 **/PROJECT*/*.tmp
 **/PROJECT*/*.TMP
