@@ -22,6 +22,10 @@
 **/output-pdf/
 
 # PKPM output files
+**/PROJECT*/*.RTF
+**/PROJECT*/*.MDB
+**/PROJECT*/SLABCAL.PM
+**/PROJECT*/SLABMSG.PM
 **/PROJECT*/*.tmp
 **/PROJECT*/*.TMP
 **/PROJECT*/*.log
