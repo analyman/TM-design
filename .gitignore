@@ -20,6 +20,7 @@
 
 # pdf output
 **/output-pdf/
+结构设计/结构图纸/output
 
 # PKPM output files
 **/PROJECT*/*.RTF
